@@ -35,14 +35,14 @@ During May 2023 to Sept 2023, I worked as a research intern at [GAIR](https://pl
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Sample-Efficient Human Evaluation of Large Language Models via MaximumDiscrepancy Competition
 </font>
-**Kehua Feng**, Keyan Ding, Kede Ma, Zhihua Wang, Qiang Zhang, Huajun Chen\\
+**Kehua Feng\***, Keyan Ding\*, Kede Ma, Zhihua Wang, Qiang Zhang, Huajun Chen\\
 **Preprint, 2024** |  [PDF](https://arxiv.org/pdf/2404.08008) | [Code](https://github.com/weiji-Feng/MAD-Eval)
 </div>
 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">SciKnowEval: Evaluating Multi-level Scientific Knowledge of Large Language Lodels
 </font>
-**Kehua Feng**, Keyan Ding, Weijie Wang, Xiang Zhuang, Zeyuan Wang, Ming Qin, Yu Zhao, Jianhua Yao, Qiang Zhang, Huajun Chen\\
+**Kehua Feng\***, Keyan Ding\*, Weijie Wang, Xiang Zhuang, Zeyuan Wang, Ming Qin, Yu Zhao, Jianhua Yao, Qiang Zhang, Huajun Chen\\
 **Preprint, 2024** |  [PDF](https://arxiv.org/pdf/2406.09098) | [Code](https://github.com/hicai-zju/sciknoweval) | [Page](http://www.scimind.ai/sciknoweval/) | [HF Repo](https://huggingface.co/datasets/hicai-zju/SciKnowEval)
 </div>
 
@@ -50,7 +50,7 @@ During May 2023 to Sept 2023, I worked as a research intern at [GAIR](https://pl
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">SaMer: A Scenario-aware Multi-dimensional Evaluator for Large Language Models
 </font>
-**Kehua Feng**, Keyan Ding, Jing Yu, Yiwen Qu, Zhiwen Chen, Gang Yu, Qiang Zhang, Huajun Chen\\
+**Kehua Feng\***, Keyan Ding\*, Jing Yu, Yiwen Qu, Zhiwen Chen, Gang Yu, Qiang Zhang, Huajun Chen\\
 **ICLR, 2025** |  [PDF](https://openreview.net/pdf?id=aBnVU5DL3I) | [Code](https://github.com/Irving-Feng/SaMer)
 </div>
 
