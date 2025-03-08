@@ -21,7 +21,7 @@ I am a first-year CS PhD student at [Zhejiang University (浙江大学)](https:/
 
 During May 2023 to Sept 2023, I worked as a research intern at [GAIR](https://plms.ai/) under the guidance of Prof. [Pengfei Liu](http://pfliu.com/), where I focused on various aspects of Large Language Models (LLMs), primarily on the evaluation and reasoning of LLMs.
 
-<a href='https://scholar.google.com/citations?user=PQVboTgAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href='https://scholar.google.com/citations?user=PQVboTgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
