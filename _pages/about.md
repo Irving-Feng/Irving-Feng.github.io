@@ -44,7 +44,7 @@ During May 2023 to Sept 2023, I worked as a research intern at [GAIR](https://pl
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">SciKnowEval: Evaluating Multi-level Scientific Knowledge of Large Language Lodels
 </font>
-**Kehua Feng\***, Keyan Ding\*, Weijie Wang, Xiang Zhuang, Zeyuan Wang, Ming Qin, Yu Zhao, Jianhua Yao, Qiang Zhang, Huajun Chen\\
+**Kehua Feng\***, Keyan Ding\*, Weijie Wang\*, Xiang Zhuang, Zeyuan Wang, Ming Qin, Yu Zhao, Jianhua Yao, Qiang Zhang, Huajun Chen\\
 **Preprint, 2024** |  [PDF](https://arxiv.org/pdf/2406.09098) | [Code](https://github.com/hicai-zju/sciknoweval) | [Page](http://www.scimind.ai/sciknoweval/) | [HF Repo](https://huggingface.co/datasets/hicai-zju/SciKnowEval)
 </div>
 
