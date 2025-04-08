@@ -35,6 +35,13 @@ During May 2023 to Sept 2023, I worked as a research intern at [GAIR](https://pl
  
 ## Preprint
 <div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">ERPO: Advancing Safety Alignment via Ex-Ante Reasoning Preference Optimization
+</font>
+**Kehua Feng\***, Keyan Ding\*, Jing Yu, Menghan Li, Yuhao Wang, Tong Xu, Xinda Wang, Qiang Zhang, Huajun Chen\\
+**Preprint, 2025** |  [PDF](https://arxiv.org/pdf/2404.08008)
+</div>
+
+<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Sample-Efficient Human Evaluation of Large Language Models via MaximumDiscrepancy Competition
 </font>
 **Kehua Feng\***, Keyan Ding\*, Kede Ma, Zhihua Wang, Qiang Zhang, Huajun Chen\\
@@ -46,6 +53,13 @@ During May 2023 to Sept 2023, I worked as a research intern at [GAIR](https://pl
 </font>
 **Kehua Feng\***, Keyan Ding\*, Weijie Wang\*, Xiang Zhuang, Zeyuan Wang, Ming Qin, Yu Zhao, Jianhua Yao, Qiang Zhang, Huajun Chen\\
 **Preprint, 2024** |  [PDF](https://arxiv.org/pdf/2406.09098) | [Code](https://github.com/hicai-zju/sciknoweval) | [Page](http://www.scimind.ai/sciknoweval/) | [HF Repo](https://huggingface.co/datasets/hicai-zju/SciKnowEval)
+</div>
+
+<div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">FacTool: Factuality Detection in Generative AI--A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios
+</font>
+I-Chun Chern, Steffi Chern, Shiqi Chen, Weizhe Yuan, **Kehua Feng**, Chunting Zhou, Junxian He, Graham Neubig, Pengfei Liu\\
+**Preprint, 2023** |  [PDF](https://arxiv.org/abs/2307.13528) | [Code](https://github.com/GAIR-NLP/factool)
 </div>
 
 ## Conference
