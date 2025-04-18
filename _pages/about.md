@@ -67,7 +67,7 @@ I-Chun Chern, Steffi Chern, Shiqi Chen, Weizhe Yuan, **Kehua Feng**, Chunting Zh
 <font color="CornFlowerBlue">SaMer: A Scenario-aware Multi-dimensional Evaluator for Large Language Models
 </font>
 **Kehua Feng\***, Keyan Ding\*, Jing Yu, Yiwen Qu, Zhiwen Chen, Gang Yu, Qiang Zhang, Huajun Chen\\
-**ICLR, 2025** |  [PDF](https://openreview.net/pdf?id=aBnVU5DL3I) | [Code](https://github.com/Irving-Feng/SaMer)
+**ICLR 2025** |  [PDF](https://openreview.net/pdf?id=aBnVU5DL3I) | [Code](https://github.com/Irving-Feng/SaMer)
 </div>
 
 ## Journal
