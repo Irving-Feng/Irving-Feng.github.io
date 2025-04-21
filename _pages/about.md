@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year CS PhD student at [Zhejiang University (浙江大学)](https://www.zju.edu.cn/), supervised by Prof. [Huajun Chen](https://person.zju.edu.cn/en/huajun). Before that, I received my B.S. degree in the Turing Elite class at [Xidian University (西电)](https://www.xidian.edu.cn/) in 2024, majoring in Artificial Intelligence. My research interests revolve around LLMs and AI4Science, with a particular focus on the evaluation and applications of LLMs in scientific domains.
+I am a first-year CS PhD student at [Zhejiang University (浙江大学)](https://www.zju.edu.cn/), supervised by Prof. [Huajun Chen](https://person.zju.edu.cn/en/huajun). Before that, I received my B.S. degree in the Turing Elite class at [Xidian University (西电)](https://www.xidian.edu.cn/) in 2024, majoring in Artificial Intelligence. My research interests revolve around Large Language Models (LLMs), with a particular focus on LLM evaluation and reasoning.
 
-During May 2023 to Sept 2023, I worked as a research intern at [GAIR](https://plms.ai/) under the guidance of Prof. [Pengfei Liu](http://pfliu.com/), where I focused on various aspects of Large Language Models (LLMs), primarily on the evaluation and reasoning of LLMs.
+During May 2023 to Sept 2023, I worked as a research intern at SJTU [GAIR Lab](https://plms.ai/) under the guidance of Prof. [Pengfei Liu](http://pfliu.com/), where I focused on various aspects of Large Language Models (LLMs), primarily on the evaluation and reasoning of LLMs.
 
 <a href='https://scholar.google.com/citations?user=PQVboTgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
