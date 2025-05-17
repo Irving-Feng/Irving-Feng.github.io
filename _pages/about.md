@@ -42,13 +42,6 @@ During May 2023 to Sept 2023, I worked as a research intern at SJTU [GAIR Lab](h
 </div>
 
 <div class='paper-box-text' markdown="1">
-<font color="CornFlowerBlue">Sample-Efficient Human Evaluation of Large Language Models via MaximumDiscrepancy Competition
-</font>
-**Kehua Feng\***, Keyan Ding\*, Kede Ma, Zhihua Wang, Qiang Zhang, Huajun Chen\\
-**Preprint, 2024** |  [PDF](https://arxiv.org/pdf/2404.08008) | [Code](https://github.com/weiji-Feng/MAD-Eval)
-</div>
-
-<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">SciKnowEval: Evaluating Multi-level Scientific Knowledge of Large Language Lodels
 </font>
 **Kehua Feng\***, Keyan Ding\*, Weijie Wang\*, Xiang Zhuang, Zeyuan Wang, Ming Qin, Yu Zhao, Jianhua Yao, Qiang Zhang, Huajun Chen\\
@@ -63,6 +56,27 @@ I-Chun Chern, Steffi Chern, Shiqi Chen, Weizhe Yuan, **Kehua Feng**, Chunting Zh
 </div>
 
 ## Conference
+<div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">Sample-Efficient Human Evaluation of Large Language Models via MaximumDiscrepancy Competition
+</font>
+**Kehua Feng\***, Keyan Ding\*, Hongzhi Tan, Kede Ma, Zhihua Wang, Shuangquan Guo, Yuzhou Cheng, Ge Sun, Guozhou Zheng, Qiang Zhang, Huajun Chen\\
+**ACL 2025, Main** |  [PDF](https://arxiv.org/pdf/2404.08008) | [Code](https://github.com/weiji-Feng/MAD-Eval)
+</div>
+
+<div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">Enhancing Safe and Controllable Protein Generation via Knowledge Preference Optimization
+</font>
+Yuhao Wang, Keyan Ding, **Kehua Feng**, Zeyuan Wang, Ming Qin, Xiaotong Li, Qiang Zhang, Huajun Chen\\
+**ACL 2025, Main** |  [PDF](./) | [Code](./)
+</div>
+
+<div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">Boosting LLM’s Molecular Structure Elucidation with Knowledge Enhanced Tree Search Reasoning
+</font>
+Xiang Zhuang, Bin Wu, Jiyu Cui, **Kehua Feng**, Xiaotong Li, Huabin Xing, Keyan Ding, Qiang Zhang, Huajun Chen\\
+**ACL 2025, Main** |  [PDF](./) | [Code](./)
+</div>
+
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">SaMer: A Scenario-aware Multi-dimensional Evaluator for Large Language Models
 </font>
