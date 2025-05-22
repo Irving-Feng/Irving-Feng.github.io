@@ -35,6 +35,13 @@ During May 2023 to Sept 2023, I worked as a research intern at SJTU [GAIR Lab](h
  
 ## Preprint
 <div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">SciCUEval: A Comprehensive Dataset for Evaluating Scientific Context Understanding in Large Language Models
+</font>
+Jing Yu, Yuqi Tang, **Kehua Feng**, Mingyang Rao, Lei Liang, Zhiqiang Zhang, Mengshu Sun, Wen Zhang, Qiang Zhang, Keyan Ding, Huajun Chen\\
+**Preprint, 2025** |  [PDF](https://arxiv.org/pdf/2505.15094) | [Code](https://github.com/HICAI-ZJU/SciCUEval) | [HF Repo](https://huggingface.co/datasets/hicai-zju/SciCUEval)
+</div>
+
+<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">ERPO: Advancing Safety Alignment via Ex-Ante Reasoning Preference Optimization
 </font>
 **Kehua Feng\***, Keyan Ding\*, Jing Yu, Menghan Li, Yuhao Wang, Tong Xu, Xinda Wang, Qiang Zhang, Huajun Chen\\
