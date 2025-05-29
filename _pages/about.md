@@ -25,8 +25,9 @@ During May 2023 to Sept 2023, I worked as a research intern at SJTU [GAIR Lab](h
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025. 
-- *2025.01*: &nbsp;🎉🎉 One survey paper about [Scientific Large Language Models](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) is accepted by ACM Computing Surveys.
+- *2025.05*: &nbsp;🎉🎉 Three papers are accepted by ACL 2025! 
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025! 
+- *2025.01*: &nbsp;🎉🎉 One survey paper about [Scientific Large Language Models](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) is accepted by ACM Computing Surveys!
 - *2024.06*: &nbsp; We preprint a dataset & benchmark paper about [Scientific Knowledge Evaluation](https://github.com/HICAI-ZJU/SciKnowEval).
 
 # 📝 Publications 
