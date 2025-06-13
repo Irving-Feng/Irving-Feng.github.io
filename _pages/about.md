@@ -65,7 +65,7 @@ I-Chun Chern, Steffi Chern, Shiqi Chen, Weizhe Yuan, **Kehua Feng**, Chunting Zh
 
 ## Conference
 <div class='paper-box-text' markdown="1">
-<font color="CornFlowerBlue">Sample-Efficient Human Evaluation of Large Language Models via MaximumDiscrepancy Competition
+<font color="CornFlowerBlue">Sample-Efficient Human Evaluation of Large Language Models via Maximum Discrepancy Competition
 </font>
 **Kehua Feng\***, Keyan Ding\*, Hongzhi Tan, Kede Ma, Zhihua Wang, Shuangquan Guo, Yuzhou Cheng, Ge Sun, Guozhou Zheng, Qiang Zhang, Huajun Chen\\
 **ACL 2025, Main** |  [PDF](https://arxiv.org/pdf/2404.08008) | [Code](https://github.com/weiji-Feng/MAD-Eval)
