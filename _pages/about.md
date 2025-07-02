@@ -46,7 +46,7 @@ Jing Yu, Yuqi Tang, **Kehua Feng**, Mingyang Rao, Lei Liang, Zhiqiang Zhang, Men
 <font color="CornFlowerBlue">ERPO: Advancing Safety Alignment via Ex-Ante Reasoning Preference Optimization
 </font>
 **Kehua Feng\***, Keyan Ding\*, Jing Yu, Menghan Li, Yuhao Wang, Tong Xu, Xinda Wang, Qiang Zhang, Huajun Chen\\
-**Preprint, 2025** |  [PDF](https://arxiv.org/pdf/2404.08008)
+**Preprint, 2025** |  [PDF](https://arxiv.org/pdf/2504.02725)
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -75,14 +75,14 @@ I-Chun Chern, Steffi Chern, Shiqi Chen, Weizhe Yuan, **Kehua Feng**, Chunting Zh
 <font color="CornFlowerBlue">Enhancing Safe and Controllable Protein Generation via Knowledge Preference Optimization
 </font>
 Yuhao Wang, Keyan Ding, **Kehua Feng**, Zeyuan Wang, Ming Qin, Xiaotong Li, Qiang Zhang, Huajun Chen\\
-**ACL 2025, Main** |  [PDF](./) | [Code](./)
+**ACL 2025, Main** |  [PDF](./) | [Code](https://github.com/HICAI-ZJU/KPO)
 </div>
 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Boosting LLM’s Molecular Structure Elucidation with Knowledge Enhanced Tree Search Reasoning
 </font>
 Xiang Zhuang, Bin Wu, Jiyu Cui, **Kehua Feng**, Xiaotong Li, Huabin Xing, Keyan Ding, Qiang Zhang, Huajun Chen\\
-**ACL 2025, Main** |  [PDF](./) | [Code](./)
+**ACL 2025, Main** |  [PDF](https://arxiv.org/pdf/2506.23056) | [Code](https://github.com/HICAI-ZJU/K-MSE)
 </div>
 
 <div class='paper-box-text' markdown="1">
