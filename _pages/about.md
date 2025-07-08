@@ -56,14 +56,16 @@ Jing Yu, Yuqi Tang, **Kehua Feng**, Mingyang Rao, Lei Liang, Zhiqiang Zhang, Men
 **Preprint, 2024** |  [PDF](https://arxiv.org/pdf/2406.09098) | [Code](https://github.com/hicai-zju/sciknoweval) | [Page](http://www.scimind.ai/sciknoweval/) | [HF Repo](https://huggingface.co/datasets/hicai-zju/SciKnowEval)
 </div>
 
+
+## Conference
+
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">FacTool: Factuality Detection in Generative AI--A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios
 </font>
 I-Chun Chern, Steffi Chern, Shiqi Chen, Weizhe Yuan, **Kehua Feng**, Chunting Zhou, Junxian He, Graham Neubig, Pengfei Liu\\
-**Preprint, 2023** |  [PDF](https://arxiv.org/abs/2307.13528) | [Code](https://github.com/GAIR-NLP/factool)
+**COLM 2025** |  [PDF](https://arxiv.org/abs/2307.13528) | [Code](https://github.com/GAIR-NLP/factool)
 </div>
 
-## Conference
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Sample-Efficient Human Evaluation of Large Language Models via Maximum Discrepancy Competition
 </font>
