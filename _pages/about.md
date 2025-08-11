@@ -37,6 +37,13 @@ During May 2023 to Sept 2023, I worked as a research intern at SJTU [GAIR Lab](h
  
 ## Preprint
 <div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">Learning an Efficient Multi-Turn Dialogue Evaluator from Multiple Judges
+</font>
+Yuqi Tang, **Kehua Feng**, Yunfeng Wang, Zhiwen Chen, Chengfei Lv, Gang Yu, Qiang Zhang, Keyan Ding\\
+**Preprint, 2025** |  [PDF](https://arxiv.org/pdf/2508.00454) | [Code](https://arxiv.org/pdf/2508.00454)
+</div>
+
+<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">SciCUEval: A Comprehensive Dataset for Evaluating Scientific Context Understanding in Large Language Models
 </font>
 Jing Yu, Yuqi Tang, **Kehua Feng**, Mingyang Rao, Lei Liang, Zhiqiang Zhang, Mengshu Sun, Wen Zhang, Qiang Zhang, Keyan Ding, Huajun Chen\\
