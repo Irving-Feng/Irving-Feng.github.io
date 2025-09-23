@@ -57,13 +57,6 @@ Jing Yu, Yuqi Tang, **Kehua Feng**, Mingyang Rao, Lei Liang, Zhiqiang Zhang, Men
 **Preprint, 2025** |  [PDF](https://arxiv.org/pdf/2504.02725)
 </div>
 
-<div class='paper-box-text' markdown="1">
-<font color="CornFlowerBlue">SciKnowEval: Evaluating Multi-level Scientific Knowledge of Large Language Lodels
-</font>
-**Kehua Feng\***, Keyan Ding\*, Weijie Wang\*, Xiang Zhuang, Zeyuan Wang, Ming Qin, Yu Zhao, Jianhua Yao, Qiang Zhang, Huajun Chen\\
-**Preprint, 2024** |  [PDF](https://arxiv.org/pdf/2406.09098) | [Code](https://github.com/hicai-zju/sciknoweval) | [Page](http://www.scimind.ai/sciknoweval/) | [HF Repo](https://huggingface.co/datasets/hicai-zju/SciKnowEval)
-</div>
-
 
 ## Conference
 
@@ -100,6 +93,13 @@ Xiang Zhuang, Bin Wu, Jiyu Cui, **Kehua Feng**, Xiaotong Li, Huabin Xing, Keyan 
 </font>
 **Kehua Feng\***, Keyan Ding\*, Jing Yu, Yiwen Qu, Zhiwen Chen, Gang Yu, Qiang Zhang, Huajun Chen\\
 **ICLR 2025** |  [PDF](https://openreview.net/pdf?id=aBnVU5DL3I) | [Code](https://github.com/Irving-Feng/SaMer)
+</div>
+
+<div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">SciKnowEval: Evaluating Multi-level Scientific Knowledge of Large Language Lodels
+</font>
+**Kehua Feng\***, Keyan Ding\*, Weijie Wang\*, Xiang Zhuang, Zeyuan Wang, Ming Qin, Yu Zhao, Jianhua Yao, Qiang Zhang, Huajun Chen\\
+**NeurIPS Workshop, 2025** |  [PDF](https://arxiv.org/pdf/2406.09098) | [Code](https://github.com/hicai-zju/sciknoweval) | [Page](http://www.scimind.ai/sciknoweval/) | [HF Repo](https://huggingface.co/datasets/hicai-zju/SciKnowEval)
 </div>
 
 ## Journal
