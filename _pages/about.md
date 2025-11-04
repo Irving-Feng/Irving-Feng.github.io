@@ -25,17 +25,24 @@ During May 2023 to Sept 2023, I worked as a research intern at SJTU [GAIR Lab](h
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 I was awarded the **National Scholarship** (国家奖学金) for PhD Students during the first year of my doctoral studies.
 - *2025.07*: &nbsp;🎉🎉 One co-authored paper (*FacTool*) is accepted by COLM 2025!
 - *2025.05*: &nbsp;🎉🎉 Three papers are accepted by ACL 2025! 
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025! 
 - *2025.01*: &nbsp;🎉🎉 One survey paper about [Scientific Large Language Models](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) is accepted by ACM Computing Surveys!
-- *2024.06*: &nbsp; We preprint a dataset & benchmark paper about [Scientific Knowledge Evaluation](https://github.com/HICAI-ZJU/SciKnowEval).
 
 # 📝 Publications 
 
 (* indicates equal contribution)
  
 ## Preprint
+<div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">CoT-Evo: Evolutionary Distillation of Chain-of-Thought for Scientific Reasoning
+</font>
+**Kehua Feng\***, Keyan Ding\*, Zhihui Zhu, Lei Liang, Qiang Zhang, Huajun Chen\\
+**Preprint, 2025** |  [PDF](https://arxiv.org/pdf/2510.13166)
+</div>
+
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Learning an Efficient Multi-Turn Dialogue Evaluator from Multiple Judges
 </font>
@@ -113,7 +120,8 @@ Qiang Zhang, Keyan Ding, Tianwen Lv, Xinda Wang, Qingyu Yin, Yiwen Zhang, Jing Y
 
 
 # 🎖 Honors and Awards
-- Song Qingling Future Scholarship, *2023.12*,
+- National Scholarship for PhD Students (国家奖学金, top 5%), *2025.10*,
+- Song Qingling Future Scholarship (宋庆龄未来奖学金), *2023.12*,
 - *__Finalist Winner__ (1st Prize, top 1.5%)*, The International Mathematical Contest in Modeling (MCM/ICM), *2023.05*,
 - *__1st price__*, The China Undergraduate Mathematical Contest in Modeling (CUMCM) in Shaanxi Province, *2022.12*,
 - *__1st price__*, The Chinese Mathematics Competitions (CMC) in Shaanxi Province, *2021.12*,
