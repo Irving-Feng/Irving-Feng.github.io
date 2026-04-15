@@ -38,21 +38,27 @@ During May 2023 to Sept 2023, I worked as a research intern at SJTU [GAIR Lab](h
 ## Preprint
 
 <div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">Embodied Science: Closing the Discovery Loop with Agentic Embodied AI
+</font>
+Xiang Zhuang, Chenyi Zhou, **Kehua Feng**, Zhihui Zhu, Yunfan Gao, Yijie Zhong, Yichi Zhang, Junjie Huang, Keyan Ding, Lei Bai, Haofen Wang, Qiang Zhang, Huajun Chen\\
+**Preprint, 2026** |  [PDF](https://arxiv.org/pdf/2603.19782)
+</div>
+
+<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Learning an Efficient Multi-Turn Dialogue Evaluator from Multiple Judges
 </font>
 Yuqi Tang, **Kehua Feng**, Yunfeng Wang, Zhiwen Chen, Chengfei Lv, Gang Yu, Qiang Zhang, Keyan Ding\\
 **Preprint, 2025** |  [PDF](https://arxiv.org/pdf/2508.00454) | [Code](https://arxiv.org/pdf/2508.00454)
 </div>
 
-<div class='paper-box-text' markdown="1">
-<font color="CornFlowerBlue">ERPO: Advancing Safety Alignment via Ex-Ante Reasoning Preference Optimization
-</font>
-**Kehua Feng\***, Keyan Ding\*, Jing Yu, Menghan Li, Yuhao Wang, Tong Xu, Xinda Wang, Qiang Zhang, Huajun Chen\\
-**Preprint, 2025** |  [PDF](https://arxiv.org/pdf/2504.02725)
-</div>
-
-
 ## Conference
+
+<div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">SAFER: Advancing Safety Alignment via Efficient Ex-Ante Reasoning
+</font>
+**Kehua Feng**, Keyan Ding, Yuhao Wang, Menghan Li, Fanjunduo Wei, Xinda Wang, Huajun Chen\\
+**ACL 2026, Findings** |  [PDF](https://arxiv.org/pdf/2504.02725)
+</div>
 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">CoT-Evo: Evolutionary Distillation of Chain-of-Thought for Scientific Reasoning
@@ -105,6 +111,12 @@ Xiang Zhuang, Bin Wu, Jiyu Cui, **Kehua Feng**, Xiaotong Li, Huabin Xing, Keyan 
 
 ## Journal
 
+<div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">Bridging Data and Discovery: A Survey on Knowledge Graphs in AI for Science
+</font>
+Keyan Ding, Zhihui Zhu, Yuqi Tang, **Kehua Feng**, Xiang Zhuang, Hongwei Wang, Yi Yang, Huifang Du, Zhangkai Ni, Shiqi Wang, Xiaohui Fan, Huabin Xing, Lei Bai, Qi Liu, Haofen Wang, Qiang Zhang, Huajun Chen\\
+**National Science Review, 2026** |  [PDF](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176369442.22009541/v1) | [Code](https://github.com/HICAI-ZJU/SciKGs)
+</div>
 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">SciCUEval: A Comprehensive Dataset for Evaluating Scientific Context Understanding in Large Language Models
