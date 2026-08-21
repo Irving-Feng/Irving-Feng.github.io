@@ -44,14 +44,22 @@ Xiang Zhuang, Chenyi Zhou, **Kehua Feng**, Zhihui Zhu, Yunfan Gao, Yijie Zhong, 
 **Preprint, 2026** |  [PDF](https://arxiv.org/pdf/2603.19782)
 </div>
 
+
+## Conference
+
+<div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">ChemVA: Bridging Visual and Semantic Gaps in Multimodal LLM Chemical Diagram Reasoning
+</font>
+Mingyang Rao, **Kehua Feng**, Zhihui Zhu, Jiangzhen Fu, Hao Yu, Keyan Ding, Huajun Chen\\
+**EMNLP 2026, Findings** |  [PDF](https://arxiv.org/pdf/2508.00454)
+</div>
+
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Learning an Efficient Multi-Turn Dialogue Evaluator from Multiple Judges
 </font>
 Yuqi Tang, **Kehua Feng**, Yunfeng Wang, Zhiwen Chen, Chengfei Lv, Gang Yu, Qiang Zhang, Keyan Ding\\
-**Preprint, 2025** |  [PDF](https://arxiv.org/pdf/2508.00454) | [Code](https://arxiv.org/pdf/2508.00454)
+**EMNLP 2026, Main** |  [PDF](https://arxiv.org/pdf/2508.00454) | [Code](https://arxiv.org/pdf/2508.00454)
 </div>
-
-## Conference
 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">SAFER: Advancing Safety Alignment via Efficient Ex-Ante Reasoning
