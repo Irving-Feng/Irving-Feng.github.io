@@ -25,6 +25,7 @@ During May 2023 to Sept 2023, I worked as a research intern at SJTU [GAIR Lab](h
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Two papers was accepted by EMNLP 2026! 
 - *2025.05*: &nbsp;🎉🎉 One paper was accepted by ICLR 2026! 
 - *2025.10*: &nbsp;🎉🎉 I was awarded the **National Scholarship** (国家奖学金) for PhD Students during the first year of my doctoral studies.
 - *2025.07*: &nbsp;🎉🎉 One co-authored paper (*FacTool*) was accepted by COLM 2025!
