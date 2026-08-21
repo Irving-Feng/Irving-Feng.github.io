@@ -51,14 +51,14 @@ Xiang Zhuang, Chenyi Zhou, **Kehua Feng**, Zhihui Zhu, Yunfan Gao, Yijie Zhong, 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">ChemVA: Bridging Visual and Semantic Gaps in Multimodal LLM Chemical Diagram Reasoning
 </font>
-Mingyang Rao, **Kehua Feng**, Zhihui Zhu, Jiangzhen Fu, Hao Yu, Keyan Ding, Huajun Chen\\
+Mingyang Rao, **Kehua Feng\***, Zhihui Zhu, Jiangzhen Fu, Hao Yu, Keyan Ding, Huajun Chen\\
 **EMNLP 2026, Findings** |  [PDF](https://arxiv.org/pdf/2508.00454)
 </div>
 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Learning an Efficient Multi-Turn Dialogue Evaluator from Multiple Judges
 </font>
-Yuqi Tang, **Kehua Feng**, Yunfeng Wang, Zhiwen Chen, Chengfei Lv, Gang Yu, Qiang Zhang, Keyan Ding\\
+Yuqi Tang, **Kehua Feng\***, Yunfeng Wang, Zhiwen Chen, Chengfei Lv, Gang Yu, Qiang Zhang, Keyan Ding\\
 **EMNLP 2026, Main** |  [PDF](https://arxiv.org/pdf/2508.00454) | [Code](https://arxiv.org/pdf/2508.00454)
 </div>
 
@@ -72,7 +72,7 @@ Yuqi Tang, **Kehua Feng**, Yunfeng Wang, Zhiwen Chen, Chengfei Lv, Gang Yu, Qian
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">CoT-Evo: Evolutionary Distillation of Chain-of-Thought for Scientific Reasoning
 </font>
-**Kehua Feng\***, Keyan Ding\*, Zhihui Zhu, Lei Liang, Qiang Zhang, Huajun Chen\\
+**Kehua Feng**, Keyan Ding, Zhihui Zhu, Lei Liang, Qiang Zhang, Huajun Chen\\
 **ICLR, 2026** |  [PDF](https://arxiv.org/pdf/2510.13166)
 </div>
 
@@ -86,7 +86,7 @@ I-Chun Chern, Steffi Chern, Shiqi Chen, Weizhe Yuan, **Kehua Feng**, Chunting Zh
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Sample-Efficient Human Evaluation of Large Language Models via Maximum Discrepancy Competition
 </font>
-**Kehua Feng\***, Keyan Ding\*, Hongzhi Tan, Kede Ma, Zhihua Wang, Shuangquan Guo, Yuzhou Cheng, Ge Sun, Guozhou Zheng, Qiang Zhang, Huajun Chen\\
+**Kehua Feng**, Keyan Ding, Hongzhi Tan, Kede Ma, Zhihua Wang, Shuangquan Guo, Yuzhou Cheng, Ge Sun, Guozhou Zheng, Qiang Zhang, Huajun Chen\\
 **ACL 2025, Main** |  [PDF](https://arxiv.org/pdf/2404.08008) | [Code](https://github.com/weiji-Feng/MAD-Eval)
 </div>
 
@@ -107,14 +107,14 @@ Xiang Zhuang, Bin Wu, Jiyu Cui, **Kehua Feng**, Xiaotong Li, Huabin Xing, Keyan 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">SaMer: A Scenario-aware Multi-dimensional Evaluator for Large Language Models
 </font>
-**Kehua Feng\***, Keyan Ding\*, Jing Yu, Yiwen Qu, Zhiwen Chen, Gang Yu, Qiang Zhang, Huajun Chen\\
+**Kehua Feng**, Keyan Ding, Jing Yu, Yiwen Qu, Zhiwen Chen, Gang Yu, Qiang Zhang, Huajun Chen\\
 **ICLR 2025** |  [PDF](https://openreview.net/pdf?id=aBnVU5DL3I) | [Code](https://github.com/Irving-Feng/SaMer)
 </div>
 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">SciKnowEval: Evaluating Multi-level Scientific Knowledge of Large Language Lodels
 </font>
-**Kehua Feng\***, Keyan Ding\*, Weijie Wang\*, Xiang Zhuang, Zeyuan Wang, Ming Qin, Yu Zhao, Jianhua Yao, Qiang Zhang, Huajun Chen\\
+**Kehua Feng**, Keyan Ding, Weijie Wang, Xiang Zhuang, Zeyuan Wang, Ming Qin, Yu Zhao, Jianhua Yao, Qiang Zhang, Huajun Chen\\
 **NeurIPS Workshop, 2025** |  [PDF](https://arxiv.org/pdf/2406.09098) | [Code](https://github.com/hicai-zju/sciknoweval) | [Page](http://www.scimind.ai/sciknoweval/) | [HF Repo](https://huggingface.co/datasets/hicai-zju/SciKnowEval)
 </div>
 
